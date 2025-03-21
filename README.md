@@ -19,3 +19,4 @@ This SQL project consist of the following tables:
 
 The following is the DATA MODEL:
 
+![Image Alt](https://github.com/aksharaanil-1/Music_Data_Analysis/blob/c7587215334466c1ac0af67733bbe5f60c7ecc39/schema_diagram.png)
